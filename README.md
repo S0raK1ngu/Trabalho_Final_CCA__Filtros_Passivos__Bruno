@@ -186,7 +186,7 @@ As linhas tracejadas representam os valores ideais (teóricos), enquanto as linh
 
 ### Figura 1: Diagrama de Bode - Filtro Passa-Baixas (LPF)
 
-![Figura 1 - Diagrama de Bode LPF]("C:\Users\bruno\Documents\GitHub\Trabalho_Final_CCA__Filtros_Passivos__Bruno\Imagens e dados gerados\Diagrama de Bode - Filtro Passa-Baixas de 2ª ordem - Woofer.png")
+![Figura 1 - Diagrama de Bode LPF](caminho/para/figura1_lpf.png)
 
 *Diagrama de Bode do filtro passa-baixas mostrando a magnitude (dB) e fase (graus) em função da frequência. As curvas tracejadas representam o comportamento ideal (Butterworth), enquanto as curvas sólidas mostram o comportamento real com componentes comerciais.*
 
@@ -284,9 +284,9 @@ O uso de ferramentas computacionais (Python/NumPy/Matplotlib) permite otimizaç�
 **Disciplina:** Circuitos de Corrente Alternada - CC44CP  
 **Professor:** Prof. Dionatan Cieslak, Dr. Eng.  
 **Autor:** Bruno Tiecher  
-**Instituição:** [Nome da Instituição]  
-**Curso:** [Nome do Curso]  
-**Data:** [Data de Entrega]
+**Instituição:** Unviversidade Tecnológica Federal do Paraná - Campus Pato Branco 
+**Curso:** Engenharia de Computação  
+**Data:** 10/12/2025
 
 ---
 
