@@ -1,10 +1,9 @@
 # Trabalho_Final_CCA__Filtros_Passivos__Bruno
-# Trabalho Final: Projeto de Filtros Passivos
 
 ## Circuitos de Corrente Alternada - CC44CP
 **Prof. Dionatan Cieslak, Dr. Eng.**
 
-**Autor:** Bruno Tiecher
+## **Autor:** Bruno Tiecher
 
 ---
 
@@ -32,8 +31,8 @@ O desafio é projetar um sistema de crossover passivo de **2ª ordem** utilizand
 5. **Gerar diagramas de Bode** comparativos para visualização das respostas em frequência
 
 ### Especificações Técnicas:
-- **Impedância de carga (R_L):** 6 Ω (típica de alto-falantes)
-- **Frequência de corte (f_c):** 3200 Hz
+- **Impedância de carga (R_L):** 6 Ω (Atribuido pelo Professor)
+- **Frequência de corte (f_c):** 3200 Hz (Atribuido pelo Professor)
 - **Tipo de filtro:** Butterworth de 2ª ordem (ζ = √2)
 - **Topologia:** 
   - **LPF (Low-Pass Filter):** Para o woofer (frequências ≤ 3200 Hz)
@@ -187,7 +186,7 @@ As linhas tracejadas representam os valores ideais (teóricos), enquanto as linh
 
 ### Figura 1: Diagrama de Bode - Filtro Passa-Baixas (LPF)
 
-![Figura 1 - Diagrama de Bode LPF](caminho/para/figura1_lpf.png)
+![Figura 1 - Diagrama de Bode LPF]("C:\Users\bruno\Documents\GitHub\Trabalho_Final_CCA__Filtros_Passivos__Bruno\Imagens e dados gerados\Diagrama de Bode - Filtro Passa-Baixas de 2ª ordem - Woofer.png")
 
 *Diagrama de Bode do filtro passa-baixas mostrando a magnitude (dB) e fase (graus) em função da frequência. As curvas tracejadas representam o comportamento ideal (Butterworth), enquanto as curvas sólidas mostram o comportamento real com componentes comerciais.*
 
@@ -277,15 +276,6 @@ Este projeto demonstra que é possível projetar sistemas de crossover de alta q
 - Topologias alternativas (Linkwitz-Riley, Bessel)
 
 O uso de ferramentas computacionais (Python/NumPy/Matplotlib) permite otimização rápida e visualização clara dos resultados, facilitando decisões de projeto informadas.
-
----
-
-## Referências
-
-1. Butterworth, S. (1930). "On the Theory of Filter Amplifiers". Wireless Engineer, vol. 7, pp. 536-541.
-2. Small, R. H. (1972). "Passive-Radiator Loudspeaker Systems". Journal of the Audio Engineering Society, vol. 20, no. 8.
-3. Thiele, A. N. (1971). "Loudspeakers in Vented Boxes". Journal of the Audio Engineering Society, vol. 19, no. 5-6.
-4. Lipshitz, S. P., & Vanderkooy, J. (1986). "A Family of Linear-Phase Crossover Networks of High Slope Derived by Time Delay". Journal of the Audio Engineering Society.
 
 ---
 
