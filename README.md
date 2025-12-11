@@ -186,25 +186,26 @@ As linhas tracejadas representam os valores ideais (teóricos), enquanto as linh
 
 ### Figura 1: Diagrama de Bode - Filtro Passa-Baixas (LPF)
 
-![caminho/para/figura1_lpf.png](https://github.com/S0raK1ngu/Trabalho_Final_CCA__Filtros_Passivos__Bruno/blob/6d1e86d86c295697fb1a630d0338a9099fe05146/Imagens%20e%20dados%20gerados/Diagrama%20de%20Bode%20-%20Filtro%20Passa-Baixas%20de%202%C2%AA%20ordem%20-%20Woofer.png))
+![caminho/para/figura1_lpf.png](https://github.com/S0raK1ngu/Trabalho_Final_CCA__Filtros_Passivos__Bruno/blob/6d1e86d86c295697fb1a630d0338a9099fe05146/Imagens%20e%20dados%20gerados/Diagrama%20de%20Bode%20-%20Filtro%20Passa-Baixas%20de%202%C2%AA%20ordem%20-%20Woofer.png)
 
 *Diagrama de Bode do filtro passa-baixas mostrando a magnitude (dB) e fase (graus) em função da frequência. As curvas tracejadas representam o comportamento ideal (Butterworth), enquanto as curvas sólidas mostram o comportamento real com componentes comerciais.*
 
 ### Figura 2: Diagrama de Bode - Filtro Passa-Altas (HPF)
 
-![Figura 2 - Diagrama de Bode HPF](caminho/para/figura2_hpf.png)
+![caminho/para/figura2_hpf.png](https://github.com/S0raK1ngu/Trabalho_Final_CCA__Filtros_Passivos__Bruno/blob/e6bd8094a27e34b9cee98b17497fa72f89516d76/Imagens%20e%20dados%20gerados/Diagrama%20de%20Bode%20-%20Filtro%20Passa-Altas%20de%202%C2%AA%20ordem%20-%20Tweeter.png)
 
 *Diagrama de Bode do filtro passa-altas mostrando a magnitude (dB) e fase (graus) em função da frequência. Observa-se a atenuação de frequências abaixo de 3200 Hz e a passagem de frequências superiores.*
 
 ### Figura 3: Tabela de Análise de Componentes
 
-![Figura 3 - Tabela de Componentes](caminho/para/figura3_componentes.png)
+![caminho/para/figura3_componentes.png](https://github.com/S0raK1ngu/Trabalho_Final_CCA__Filtros_Passivos__Bruno/blob/e6bd8094a27e34b9cee98b17497fa72f89516d76/Imagens%20e%20dados%20gerados/Analise%20de%20Componentes%20-%20Valores%20Ideais%20X%20Comerciais.png))
+
 
 *Comparação entre valores ideais calculados teoricamente e valores comerciais selecionados para indutor e capacitor, incluindo o erro percentual.*
 
 ### Figura 4: Tabela de Frequências de Corte
 
-![Figura 4 - Tabela de Frequências](caminho/para/figura4_frequencias.png)
+![caminho/para/figura4_frequencias.png](https://github.com/S0raK1ngu/Trabalho_Final_CCA__Filtros_Passivos__Bruno/blob/e6bd8094a27e34b9cee98b17497fa72f89516d76/Imagens%20e%20dados%20gerados/Analise%20da%20Frequencia%20de%20Corte%20Real.png))
 
 *Análise das frequências de corte reais obtidas com componentes comerciais comparadas com a frequência de corte ideal de projeto (3200 Hz).*
 
