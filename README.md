@@ -284,7 +284,7 @@ O uso de ferramentas computacionais (Python/NumPy/Matplotlib) permite otimizaç�
 **Disciplina:** Circuitos de Corrente Alternada - CC44CP  
 **Professor:** Prof. Dionatan Cieslak, Dr. Eng.  
 **Autor:** Bruno Tiecher  
-**Instituição:** Unviversidade Tecnológica Federal do Paraná - Campus Pato Branco 
+**Instituição:** Unviversidade Tecnológica Federal do Paraná - Campus Pato Branco         
 **Curso:** Engenharia de Computação  
 **Data:** 10/12/2025
 
