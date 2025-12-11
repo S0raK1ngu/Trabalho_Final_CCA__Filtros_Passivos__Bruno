@@ -186,7 +186,7 @@ As linhas tracejadas representam os valores ideais (teóricos), enquanto as linh
 
 ### Figura 1: Diagrama de Bode - Filtro Passa-Baixas (LPF)
 
-![Figura 1 - Diagrama de Bode LPF](caminho/para/figura1_lpf.png)
+![caminho/para/figura1_lpf.png](https://github.com/S0raK1ngu/Trabalho_Final_CCA__Filtros_Passivos__Bruno/blob/6d1e86d86c295697fb1a630d0338a9099fe05146/Imagens%20e%20dados%20gerados/Diagrama%20de%20Bode%20-%20Filtro%20Passa-Baixas%20de%202%C2%AA%20ordem%20-%20Woofer.png))
 
 *Diagrama de Bode do filtro passa-baixas mostrando a magnitude (dB) e fase (graus) em função da frequência. As curvas tracejadas representam o comportamento ideal (Butterworth), enquanto as curvas sólidas mostram o comportamento real com componentes comerciais.*
 
